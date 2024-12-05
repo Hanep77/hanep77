@@ -17,4 +17,3 @@ I'm a passionate Web Developer with a love for coding, problem-solving, and buil
 - **Frameworks & Libraries**: Next.js, React, TailwindCSS, Laravel
 - **Operating System**: Linux(POP OS)
 - **Tools**: neovim, tmux, alacritty.
-- 
