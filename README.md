@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Yudis Sutisna!
 
-<!--
-**Hanep77/hanep77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web Developer with a love for coding, problem-solving, and building meaningful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔍 Available for work.
+- 💻 Enjoy do frontend development using **Next.js/React.js** with **TailwindCSS**.
+- 📚 Currently exploring backend development with **golang**.
+- 🐧 Linux enthusiast who loves exploring open-source tools and environments.
+
+---
+
+## 🛠️ Technologies & Tools
+- **Languages**: Typescript, JavaScript, PHP
+- **Frameworks & Libraries**: Next.js, React, TailwindCSS, Laravel
+- **Operating System**: Linux(POP OS)
+- **Tools**: neovim, tmux, alacritty.
+- 
