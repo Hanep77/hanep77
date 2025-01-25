@@ -1,4 +1,4 @@
-a passionate Web Developer with a love for coding, linux enthusiast who loves exploring open-source tools and environments 🐧.
+a passionate Web Developer with a love for coding, linux enthusiast who loves exploring open-source tools and environments🐧.
 
 ---
 
@@ -7,7 +7,7 @@ a passionate Web Developer with a love for coding, linux enthusiast who loves ex
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 - **Languages**: Typescript, JavaScript, PHP
 - **Frameworks & Libraries**: Next.js, React, TailwindCSS, Laravel
 - **Operating System**: Linux(POP OS)
