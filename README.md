@@ -7,7 +7,6 @@ a passionate Web Developer with a love for coding, linux enthusiast who loves ex
 
 ---
 
-## Technologies & Tools
 - **Languages**: Typescript, JavaScript, PHP
 - **Frameworks & Libraries**: Next.js, React, TailwindCSS, Laravel
 - **Operating System**: Linux(POP OS)
