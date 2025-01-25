@@ -1,14 +1,9 @@
-# 👋 Hello, I'm Yudis Sutisna!
-
-I'm a passionate Web Developer with a love for coding, problem-solving, and building meaningful projects.
+a passionate Web Developer with a love for coding, linux enthusiast who loves exploring open-source tools and environments 🐧.
 
 ---
 
-## 🌟 About Me
-- 🔍 Available for work.
-- 💻 Enjoy do frontend development using **Next.js/React.js** with **TailwindCSS**.
-- 📚 Currently exploring backend development with **golang**.
-- 🐧 Linux enthusiast who loves exploring open-source tools and environments.
+- Enjoy do frontend development using **Next.js/React.js** with **TailwindCSS**.
+- Also love building backend with **laravel**.
 
 ---
 
