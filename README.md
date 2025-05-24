@@ -1,9 +1,4 @@
-a passionate Web Developer with a love for coding, linux enthusiast who loves exploring open-source tools and environments🐧.
-
----
-
-- Enjoy do frontend development using **Next.js/React.js** with **TailwindCSS**.
-- Also love building backend with **laravel**.
+Aspiring web developer (unemployed). Skilled in React, Next.js, TypeScript, laravel, etc. barely have experience worked in a company, but I’ve filed enough issues in my own codebase to qualify as developer.
 
 ---
 
